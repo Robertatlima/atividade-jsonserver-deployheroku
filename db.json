@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "email": "robs@email.com",
+      "password": "$2a$10$ehNedwY4zFRc6.4w6ZCy4OCN5BsiOyQwxMEx/1K5hEBi0Q8lkrsSW",
+      "name": "robs",
+      "age": 26,
+      "id": 1
+    }
+  ],
+  "states": [
+    {
+      "name": "Fernando de Noronha",
+      "region": "nordeste",
+      "year": 2022,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Pará",
+      "region": "norte",
+      "year": 2022,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Pará",
+      "region": "norte",
+      "year": 2022,
+      "userId": 1,
+      "id": 3
+    }
+  ],
+  "groups": [
+    {
+      "name": "Passagens baratas pra fernando de noronha",
+      "description": "Aqui voce terá acesso a passagens com desconto para o destino que procura",
+      "userId": 1
+    }
+  ]
+}
